@@ -82,8 +82,6 @@ Square acceleration mean is the most important feature, followed by variance alo
 
 ![Confusion Matrix](screenshots/confusion_matrix.png)
 
-![Eval](screenshots/eval.png)
-
-![Eval](screenshots/eval.png)
+![Eval](screenshots/eval_screenshot.png)
 
 ---
