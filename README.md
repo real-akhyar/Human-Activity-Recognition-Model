@@ -74,19 +74,14 @@ Square acceleration mean is the most important feature, followed by variance alo
 
 ---
 
-## Repository Structure
+## Visuals
 
-data  
-Dataset documentation  
+![Pre SMOTE](screenshots/pre_smote.png)
 
-notebook  
-Exploratory analysis and training  
+![Post SMOTE](screenshots/post_smote.png)
 
-screenshots  
-Project visuals  
+![Confusion Matrix](screenshots/confusion_matrix.png)
 
-models  
-Saved XGBoost model  
+![Eval](screenshots/eval.png)
 
-README.md  
-Project overview  
+---
